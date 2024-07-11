@@ -1,3 +1,17 @@
+# Calculator Project
+
+Bu proje basit bir hesap makinesi uygulamasıdır. HTML, CSS, JavaScript ve Bootstrap kullanılarak geliştirilmiştir.
+
+## Kurulum
+
+Projeyi klonlayın:
+```bash
+git clone https://github.com/dgnyldrm7/Calculator_project.git
+
+## Kullanım
+Proje dosyasını açarak `index.html` dosyasını tarayıcınızda çalıştırın.
+
+
 Light mode: 
 ![image](https://github.com/dgnyldrm7/Calculator_project/assets/94688501/886ec812-73cc-4da8-ab83-e828cd5a4a5e)
 
